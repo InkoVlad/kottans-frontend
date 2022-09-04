@@ -61,6 +61,38 @@ Week 4 - Managing Projects - https://github.com/InkoVlad/kottans-frontend/blob/m
 	Push & Pull -- віддалені репозиторії та Через origin до зірок - Здавалося б, що вже знайомий з pull та push, але завдання у цьому тренажері змусили попотіти у прямому сенсі, це просто симулятор роботи у доволі складних проектах, де не дразу можна зрозуміти що саме необхідно зробити, головне вже по ітогу все ж вистачає сил виконати ці вправи. Думаю, що і майбутньому, вже у справжній роботі ці навички будуть над потрібними, і без них наврядчи вийде навіть почати роботу у команді у великому проекті. Більшість вправ необхідно повторювати раз за разом, але загальний принцип зрозумілий.
 
 
+## Intro to HTML and CSS
+
+Week 1 - Вступ до курсу - https://github.com/InkoVlad/kottans-frontend/blob/master/task_html_css_intro/week1-html%2Ccss%2Cjs-1.png
+	Схоже, лектор данного курсу має досить великий досвід у веб розробці, в цілом його підхід до викладення матеріал є цікавим, та дає надію на ефективне навчання 
+
+Week 1 - Налаштування середовища розробки - https://github.com/InkoVlad/kottans-frontend/blob/master/task_html_css_intro/week1-html%2Ccss%2Cjs-2.png
+	Гарний курс, для новачків чудово розкриває тему з налаштування робочого середовища для роботи
+	
+
+Week 1 - Основи HTML - https://github.com/InkoVlad/kottans-frontend/blob/master/task_html_css_intro/week1-html%2Ccss%2Cjs-3.png
+	Цікава інформація, яка розповідаю історію розвитку HTML. Не є новим, але пам'ять освіжає. 
+
+Week 1 - Основні теги HTML5 - https://github.com/InkoVlad/kottans-frontend/blob/master/task_html_css_intro/week1-html%2Ccss%2Cjs-4.png
+	Весь викладенний матеріал не є абсолютно новим, але допоміг освіжити пам'ять, в цілому, все, що викладенно у цьому курсі, скоріш за все, має повсякденний характер у практиці веб розробника
+	
+	
+Week 2 - Основи каскадних таблиць стилів - https://github.com/InkoVlad/kottans-frontend/blob/master/task_html_css_intro/week2-html%2Ccss%2Cjs-1.png
+	Чудові лекції с основ стилів CSS, не є новим матеріалом, але повторювати матеріал досить цікаво
+	
+Week 2 - Вирішення конфліктів правил CSS і стилі тексту - https://github.com/InkoVlad/kottans-frontend/blob/master/task_html_css_intro/week2-html%2Ccss%2Cjs-2.png
+	Виявилось досить цікавий матеріл. Думаю, що конфлікти у стилях є досить частим явищем, і важливо у цьому знатись.
+	
+Week 2 - Модель коробки та макет - https://github.com/InkoVlad/kottans-frontend/blob/master/task_html_css_intro/week2-html%2Ccss%2Cjs-3.png
+	Лекція відповідає на важливі питання стосовно позиціонування елементів, це просто невід'ємна частина у роботі з HTML та CSS
+	
+Week2 - Введення в адаптивний дизайн - https://github.com/InkoVlad/kottans-frontend/blob/master/task_html_css_intro/week2-html%2Ccss%2Cjs-4.png
+	Адаптивнисть сторінки є важливою та невід'ємною частиною веб застосунку, інформація у цій лекції цікава та корисна. Лекця дає знання з мінімальних потреб для респонсивності макету.
+	
+Week2 - Знайомство з Twitter Bootstrap - https://github.com/InkoVlad/kottans-frontend/blob/master/task_html_css_intro/week2-html%2Ccss%2Cjs-5.png
+	Інформація у ці серіїї лекцій є новою, для відмітив взагалі існування бібліотеки Twitter Bootstrap, та принципи її роботи. Думаю, що у навчанні та роботі доволі скоро це знадобиться на практиці.
+
+	
 
 
 
