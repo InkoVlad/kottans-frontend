@@ -93,11 +93,10 @@ Week2 - Знайомство з Twitter Bootstrap - https://github.com/InkoVlad/
 	Інформація у ці серіїї лекцій є новою, для відмітив взагалі існування бібліотеки Twitter Bootstrap, та принципи її роботи. Думаю, що у навчанні та роботі доволі скоро це знадобиться на практиці.
 
 	
-
-
-
-
-
+	Learn HTML(Eng) - https://github.com/InkoVlad/kottans-frontend/blob/master/task_html_css_intro/html_learn.png
+	Learn CSS(Eng) - https://github.com/InkoVlad/kottans-frontend/blob/master/task_html_css_intro/css_learn.png
+	
+Матеріали курсів не є новими, корисні для абсолютних початківців, оскільки дає інформацію, яка використується завжди у практиці розробника. Виявилось корисним освіжити пам'ять та фундаметальні знання з html та css.
 
 
 
