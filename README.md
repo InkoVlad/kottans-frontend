@@ -111,7 +111,8 @@ Flexbox Froggy - https://github.com/InkoVlad/kottans-frontend/blob/master/task_r
 CSS Grid Layout - https://github.com/InkoVlad/kottans-frontend/blob/master/task_responsive_web_design/CSS%20Grid%20Layout.png
 	А от матеріал з гридів виявився новим у загальному сенсі, раніше багато читав та дивися відео на цю тему, але ця серія відео допогла пройти гру з гридів.
 	
-Grid Garden - гра для закріплення - ця гра для мене виявилась викликом, чим далі проходив завдання ти більше часу витрачав на вирішення. Grid цікав технологія, та дозволяю робити речі, які раніше здавалися б неймовірними.
+Grid Garden - гра для закріплення - https://github.com/InkoVlad/kottans-frontend/blob/master/task_responsive_web_design/Grid%20Garden%20.png 
+	Ця гра для мене виявилась викликом, чим далі проходив завдання ти більше часу витрачав на вирішення. Grid цікав технологія, та дозволяю робити речі, які раніше здавалися б неймовірними.
 
 
 
