@@ -102,8 +102,16 @@ Week2 - Знайомство з Twitter Bootstrap - https://github.com/InkoVlad/
 ## Responsive Web Design
 
 
-
-
+FLEXBOX. Вчимося верстати на флексах  - https://github.com/InkoVlad/kottans-frontend/blob/master/task_responsive_web_design/CSS%20Grid%20Layout.png
+	Раніше вже вчився за даними відео верстати за допомогою Flex-Box, матеріал цікавий, так структуровано корисний, доволі сильно допомагає вивчити тему Flex-Box
+	
+Flexbox Froggy - https://github.com/InkoVlad/kottans-frontend/blob/master/task_responsive_web_design/Flexbox%20Froggy%20.png
+	Класна ігра, теж її колись проходив, саме вона і допомогла практично закріпити знання з Flex-Box, за допогою чого я вже зміг наверстати перший лендінг через флекси
+	
+CSS Grid Layout - https://github.com/InkoVlad/kottans-frontend/blob/master/task_responsive_web_design/CSS%20Grid%20Layout.png
+	А от матеріал з гридів виявився новим у загальному сенсі, раніше багато читав та дивися відео на цю тему, але ця серія відео допогла пройти гру з гридів.
+	
+Grid Garden - гра для закріплення - ця гра для мене виявилась викликом, чим далі проходив завдання ти більше часу витрачав на вирішення. Grid цікав технологія, та дозволяю робити речі, які раніше здавалися б неймовірними.
 
 
 
